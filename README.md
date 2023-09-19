@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats-nonentity5565.vercel.app/api?username=Nonentity5565&show_icons=true&theme=algolia)
+
+![Top Langs](https://github-readme-stats-nonentity5565.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
 **Nonentity5565/Nonentity5565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
