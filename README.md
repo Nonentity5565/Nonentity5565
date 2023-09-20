@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats-nonentity5565.vercel.app/api?username=Nonentity5565&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats-nonentity5565.vercel.app/api?username=Nonentity5565&show_icons=true&theme=algolia&show_all_commits=true)
 
 ![Top Langs](https://github-readme-stats-nonentity5565.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
