@@ -1,4 +1,7 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Michael</h1>
+<h3 align="center">Full Stack Engineer</h3>
+
+- 📫 How to reach me **michaellu5565@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats-nonentity5565.vercel.app/api?username=Nonentity5565&show_icons=true&theme=algolia&show_all_commits=true)
 
