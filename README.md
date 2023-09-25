@@ -20,6 +20,7 @@
 [![Steam Banner](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Nonentity5565/)
 
 ### My GitHub Stats:
+> Please refresh the page if not loaded - known issue caused by a timeout in the GitHub CDN
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-nonentity5565.vercel.app/api?username=Nonentity5565&show_icons=true&show_all_commits=true" />
