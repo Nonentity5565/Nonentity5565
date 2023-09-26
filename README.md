@@ -2,6 +2,9 @@
 <h3 align="center">Full Stack Engineer</h3>
 
 ### My Socials:
+[![Website Banner](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.michael-lhx.com)
+&nbsp;
+&nbsp;
 [![LinkedIn Banner](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-lu-han-xien/)
 &nbsp;
 &nbsp;
