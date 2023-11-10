@@ -32,9 +32,6 @@
   <img height=200 align="center" src="https://github-readme-stats-nonentity5565.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-### MRW I Saw My GitHub Stats Rank:
-![Bleh Gif](https://media.tenor.com/kUUEBA_6ci0AAAAd/marcoelprro.gif)
-
 <!--
 **Nonentity5565/Nonentity5565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
